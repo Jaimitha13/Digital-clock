@@ -33,10 +33,10 @@ Hereby prompted by HTML, CSS, Javascript.
 
   ---
 
-  ## Live Link  🚀 
+## Live Link  🚀 
   Use this link to see the project [https://jaimitha13.github.io/Digital-clock/]
 
-  ## 📁 How to Use
+##  How to Use 📁
 
 You can run it in two ways:
 
@@ -46,7 +46,7 @@ Open the `index.html` file directly in your browser.
 ### 📌 Option 2: Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/Jaimitha13/Digital-clock.git]
 cd your-repo-name
 start index.html  # On Windows
 # or
