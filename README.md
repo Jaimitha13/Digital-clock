@@ -1,5 +1,5 @@
 ## Location 📍
-- Digital Clock/
+- Digital Clock /
 - index.html
 - index.css
 - index.js
@@ -35,6 +35,8 @@ Hereby prompted by HTML, CSS, Javascript.
 
 ## Live Link  🚀 
   Use this link to see the project [https://jaimitha13.github.io/Digital-clock/]
+
+---
 
 ##  How to Use 📁
 
