@@ -34,4 +34,4 @@ Hereby prompted by HTML, CSS, Javascript.
   ---
 
   ## Demo Project
-  Use this link to see the project []
+  Use this link to see the project [https://jaimitha13.github.io/Digital-clock/]
