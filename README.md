@@ -18,12 +18,21 @@ My project explains about the digital clock which is extremely used in modern wo
 Hereby prompted by HTML, CSS, Javascript.
 
 ---
+
+
+## 📸 Screenshot
+
+
+
+---
 ## Attributes 🏠
 - Easy to use and fabulous
 - User friendly and understandable
 - Quick to see and accurate
 - Saves a time
 - ---
+
+
 
 ## Technologies Used 🛠️
 - HTML 🎨
