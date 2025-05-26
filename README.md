@@ -21,7 +21,7 @@ Hereby prompted by HTML, CSS, Javascript.
 
 
 ## 📸 Screenshot
-
+![image alt](https://github.com/Jaimitha13/Digital-clock/blob/e3b2c456cc7ab6f09ab1b22ff4dd4f93f2d11927/Screenshot%202025-05-25%20172037.png)
 
 
 ---
