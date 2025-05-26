@@ -3,6 +3,8 @@
 - index.html
 - index.css
 - index.js
+- Readme.md /
+- image
 ---
 
 ## Hi, This is My Stunning Project 💫
