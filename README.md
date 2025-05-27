@@ -16,7 +16,7 @@ Digital Clock ⌚️
 ---
 
 ## Project Brief 📝
-My project explains about the digital clock which is extremely used in modern world now-a-days. Digital clock are numerical formatted one and easy to use. This watch is opposite to anolog clock.
+My project explains about the digital clock which is extremely used in modern world now-a-days. Digital clock are numerical formatted one and easy to use. This watch is opposite to analog clock.
 Hereby prompted by HTML, CSS, Javascript.
 
 ---
