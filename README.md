@@ -1,10 +1,10 @@
 ## Location 📍
 - Digital Clock /
-- index.html
+- readme.md/
+- screenshot
 - index.css
+- index.html
 - index.js
-- Readme.md /
-- image
 ---
 
 ## Hi, This is My Stunning Project 💫
